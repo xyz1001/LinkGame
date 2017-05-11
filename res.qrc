@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="zh_CN">LinkGame_zh_CN.qm</file>
+        <file alias="icon">image/icon.png</file>
+        <file alias="congratulations">image/congratulations.png</file>
+        <file alias="background">image/background.png</file>
+        <file alias="16">image/16.png</file>
+        <file alias="15">image/15.png</file>
+        <file alias="14">image/14.png</file>
+        <file alias="13">image/13.png</file>
+        <file alias="12">image/12.png</file>
+        <file alias="11">image/11.png</file>
+        <file alias="10">image/10.png</file>
+        <file alias="9">image/9.png</file>
+        <file alias="8">image/8.png</file>
+        <file alias="7">image/7.png</file>
+        <file alias="6">image/6.png</file>
+        <file alias="5">image/5.png</file>
+        <file alias="4">image/4.png</file>
+        <file alias="3">image/3.png</file>
+        <file alias="2">image/2.png</file>
+        <file alias="1">image/1.png</file>
+    </qresource>
+</RCC>
